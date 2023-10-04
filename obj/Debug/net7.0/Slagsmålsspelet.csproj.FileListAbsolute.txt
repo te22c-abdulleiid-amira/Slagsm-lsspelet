@@ -1,0 +1,14 @@
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\bin\Debug\net7.0\Slagsmålsspelet.exe
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\bin\Debug\net7.0\Slagsmålsspelet.deps.json
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\bin\Debug\net7.0\Slagsmålsspelet.runtimeconfig.json
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\bin\Debug\net7.0\Slagsmålsspelet.dll
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\bin\Debug\net7.0\Slagsmålsspelet.pdb
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.AssemblyInfoInputs.cache
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.AssemblyInfo.cs
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.csproj.CoreCompileInputs.cache
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.dll
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\refint\Slagsmålsspelet.dll
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.pdb
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\Slagsmålsspelet.genruntimeconfig.cache
+C:\Users\amira.abdulleiid\Documents\Prog\Slagsmålsspelet\Slagsmålsspelet\obj\Debug\net7.0\ref\Slagsmålsspelet.dll
